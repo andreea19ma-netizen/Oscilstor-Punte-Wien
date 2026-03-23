@@ -51,8 +51,8 @@ Trasee
 <img width="1132" height="693" alt="Screenshot 2025-05-20 090935" src="https://github.com/user-attachments/assets/53a5b06e-e88c-4a2b-bcf2-3f54fc4bb67b" />
 
 
-### Silkscreen (Amplasare componente)
-Silkscreen
+### TOP_Silkscreen (Amplasare componente)
+TOP-Silkscreen
 
 
 <img width="772" height="673" alt="Screenshot 2025-05-20 090915" src="https://github.com/user-attachments/assets/5a54b500-5209-4577-a915-388bdceadec3" />
