@@ -12,28 +12,50 @@ Proiect complet de electronică analogică realizat în cadrul Facultății de E
 ## Validare Hardware și Măsurători
 
 ### Măsurătoare Osciloscop
-![Osciloscop](Imagini/Screenshot_2025-06-02_153146.ppg)
-*Semnalul sinusoidal obținut confirmă frecvența de oscilație de 14 kHz.*
+Osciloscop
+
+
+<img width="495" height="385" alt="Screenshot 2025-06-02 153146" src="https://github.com/user-attachments/assets/1ca78e06-d9fe-4202-8f34-a629dd08be22" />
+
 
 ### Prototip Fizic (PCB realizat)
 
-![PCB Fata](Imagini/Screenshot_2025-06-02_152909.png)
+PCB Fata
+
+
+<img width="391" height="488" alt="Screenshot 2025-06-02 152909" src="https://github.com/user-attachments/assets/53d5ca1b-1179-4afc-8ca8-e0bd2dc93ae3" />
+
+
 *Vedere față (Componente SMD asamblate).*
 
-![PCB Spate](Imagini/Screenshot_2025-06-02_152955.png)
+PCB Spate
+
+
+<img width="378" height="450" alt="Screenshot 2025-06-02 152955" src="https://github.com/user-attachments/assets/3bec5223-910c-487b-bed1-c831eff61efc" />
+
+
 *Vedere spate (Trasee de cupru).*
 
 
 ## Proiectare PCB (OrCAD PCB Editor)
 
 ### Layout Complet
-![PCB Proiectare](Imagini/Screenshot_2025-05-20_091021.png)
+PCB Proiectare
+
+<img width="497" height="439" alt="Screenshot 2025-05-20 091021" src="https://github.com/user-attachments/assets/e1a936d0-ea3b-4ca4-8d54-f9e9f3518442" />
+
 
 ### Rutare Trasee
-![Trasee](Imagini/Screenshot_2025-05-20_090935.png)
+Trasee
+
+<img width="1132" height="693" alt="Screenshot 2025-05-20 090935" src="https://github.com/user-attachments/assets/53a5b06e-e88c-4a2b-bcf2-3f54fc4bb67b" />
+
 
 ### Silkscreen (Amplasare componente)
-![Silkscreen](Imagini/Screenshot_2025-05-20_090915.png)
+Silkscreen
+
+
+<img width="772" height="673" alt="Screenshot 2025-05-20 090915" src="https://github.com/user-attachments/assets/5a54b500-5209-4577-a915-388bdceadec3" />
 
 ## 📂 Resurse Proiect
 * **Documentatie_tema_14_OW.pdf:** Raportul tehnic complet cu calcule și simulări.
