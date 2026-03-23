@@ -12,7 +12,7 @@ Proiect complet de electronică analogică realizat în cadrul Facultății de E
 ## Validare Hardware și Măsurători
 
 ### Măsurătoare Osciloscop
-![Osciloscop](Imagini/Screenshot_2025-06-02_153146.jpg)
+![Osciloscop](Imagini/Screenshot_2025-06-02_153146.ppg)
 *Semnalul sinusoidal obținut confirmă frecvența de oscilație de 14 kHz.*
 
 ### Prototip Fizic (PCB realizat)
