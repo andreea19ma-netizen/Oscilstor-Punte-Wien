@@ -59,4 +59,4 @@ TOP-Silkscreen
 
 ## 📂 Resurse Proiect
 * **Documentatie_tema_14_OW.pdf:** Raportul tehnic complet cu calcule și simulări.
-* **Proiect_OrCAD.zip:** Arhiva cu fișierele sursă (.dsn, .opj, .brd).
+* **Proiect_OrCAD.zip:** Arhiva cu fișierele sursă.
