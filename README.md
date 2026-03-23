@@ -57,6 +57,6 @@ TOP-Silkscreen
 
 <img width="772" height="673" alt="Screenshot 2025-05-20 090915" src="https://github.com/user-attachments/assets/5a54b500-5209-4577-a915-388bdceadec3" />
 
-## 📂 Resurse Proiect
-* **Documentatie_tema_14_OW.pdf:** Raportul tehnic complet cu calcule și simulări.
-* **Proiect_OrCAD.zip:** Arhiva cu fișierele sursă.
+## 📂 Documentație și Resurse
+* [Documentația PDF](P1_2024-2025_431C_Manda_Andreea-Nicoleta_Documentatie_tema_14_OW.pdf)
+* [Arhiva Proiect OrCAD (.zip)](Oscilstor-Punte-Wien.zip)
